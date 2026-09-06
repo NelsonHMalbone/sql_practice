@@ -1,0 +1,46 @@
+Beginner
+
+Show all employees.
+Show only first and last names.
+Show all employees in the IT department.
+Find employees making more than $75,000.
+Find employees making less than $60,000.
+Find employees who live in Baltimore.
+Sort employees by salary from highest to lowest.
+Sort employees by salary from lowest to highest.
+Find employees with more than 10 years of experience.
+Find employees hired after 2020.
+
+Intermediate
+11. How many employees are in the company?
+12. How many employees work in IT?
+13. What is the average salary?
+14. What is the highest salary?
+15. What is the lowest salary?
+16. What is the total of all salaries?
+17. How many employees live in Maryland?
+18. How many employees live in Virginia?
+19. Find the average salary in IT.
+20. Find the average salary in Finance.
+21. Find the highest-paid employee.
+22. Find the lowest-paid employee.
+23. Count employees in each department.
+24. Find the average salary for each department.
+25. Find the highest salary in each department.
+
+Challenge
+26. Find the 5 highest-paid employees.
+27. Find the 5 lowest-paid employees.
+28. Find employees whose salary is between $60,000 and $80,000.
+29. Find IT employees making more than $80,000.
+30. Find employees in Baltimore with more than 5 years of experience.
+31. Find the department with the highest average salary.
+32. Find the department with the most employees.
+33. Find the average salary by city.
+34. Find how many employees were hired each year.
+35. Find employees whose first name starts with A.
+36. Find employees whose last name ends with s.
+37. Find employees whose job title contains Manager.
+38. Find employees who aren't in IT.
+39. Find employees who live in either Maryland or Virginia.
+40. Find the average years of experience for each department.
