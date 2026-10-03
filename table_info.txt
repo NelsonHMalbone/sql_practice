@@ -1,0 +1,10 @@
+employee_id INTEGER PRIMARY KEY,
+    first_name TEXT,
+    last_name TEXT,
+    department TEXT,
+    job_title TEXT,
+    salary INTEGER,
+    hire_date DATE,
+    city TEXT,
+    state TEXT,
+    years_experience INTEGER
