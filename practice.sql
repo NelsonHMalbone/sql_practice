@@ -22,6 +22,9 @@
 
 -- Question 5
 --Find employees making less than $60,000.
-SELECT first_name,last_name,salary
-FROM employees
-WHERE salary < 60000
+--SELECT first_name,last_name,salary
+--FROM employees
+--WHERE salary < 60000
+
+--question 6
+--Find employees who live in Baltimore.
