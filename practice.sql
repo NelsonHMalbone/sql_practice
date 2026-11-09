@@ -1,3 +1,4 @@
+-- Beginner Qestions 
 -- question 1
 -- Show all employees 
 --SELECT *
